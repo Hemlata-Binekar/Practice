@@ -3,9 +3,3 @@ class HelloWorld{
 		System.out.println("Helllo How r u?");
 		}
 }
-
-
-[
-[
-}
-]
