@@ -3,3 +3,10 @@ class HelloWorld{
 		System.out.println("Helllo How r u?");
 		}
 
+
+12
+3
+4
+
+4
+
